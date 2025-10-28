@@ -14,3 +14,6 @@ https://colab.research.google.com/drive/1Hj7sgp_2HTXntp72_ScrUCqzuKoSarSV
 
 ## Introduction to Stanza - Supplement for Topic 3
 https://colab.research.google.com/drive/1hNgqanV7GOWWHYVn7DYbUHMzP4uVzlth
+
+## Comparing SpaCy Annotation with Gold Standard
+https://colab.research.google.com/drive/19Poxi7fh_cDdLo9epc0Jfdx0zucrNnII
