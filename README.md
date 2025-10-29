@@ -17,3 +17,6 @@ https://colab.research.google.com/drive/1hNgqanV7GOWWHYVn7DYbUHMzP4uVzlth
 
 ## Comparing SpaCy Annotation with Gold Standard
 https://colab.research.google.com/drive/19Poxi7fh_cDdLo9epc0Jfdx0zucrNnII
+
+## Assignment 2
+https://colab.research.google.com/drive/1ckk8fZPfJLOAl0wzEEDymcwsgP7QuIiC
