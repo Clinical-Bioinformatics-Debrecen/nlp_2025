@@ -20,3 +20,6 @@ https://colab.research.google.com/drive/19Poxi7fh_cDdLo9epc0Jfdx0zucrNnII
 
 ## Assignment 2
 https://colab.research.google.com/drive/1ckk8fZPfJLOAl0wzEEDymcwsgP7QuIiC
+
+## Converting a Plain Text to an Annotated Vertical File
+https://colab.research.google.com/drive/1_wRF9moDAk6eMDkPISi8zd9x5Iylmfow
