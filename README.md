@@ -23,3 +23,6 @@ https://colab.research.google.com/drive/1ckk8fZPfJLOAl0wzEEDymcwsgP7QuIiC
 
 ## Converting a Plain Text to an Annotated Vertical File
 https://colab.research.google.com/drive/1_wRF9moDAk6eMDkPISi8zd9x5Iylmfow
+
+## Perplexity of N-gram Language Models
+https://colab.research.google.com/drive/1syYjYvTCMK3tLLM-DnbX5gUAL2OacsvS
