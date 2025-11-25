@@ -26,3 +26,6 @@ https://colab.research.google.com/drive/1_wRF9moDAk6eMDkPISi8zd9x5Iylmfow
 
 ## Perplexity of N-gram Language Models
 https://colab.research.google.com/drive/1syYjYvTCMK3tLLM-DnbX5gUAL2OacsvS
+
+# Latent Semantic Analysis
+https://colab.research.google.com/drive/11GRjBbHkMw62v1FsZJCh5pNAf7vIZHg2?usp=sharing
