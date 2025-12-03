@@ -1,10 +1,10 @@
 # Google Colab notebooks
 
 ## Python Packages for Text Extraction from Different Sources - Supplement for Topic 2
-https://colab.research.google.com/drive/1ZWlQ7XOp00pXTaYrb6iTLEwQPkOA2c9J?usp=sharing
+https://colab.research.google.com/drive/1ZWlQ7XOp00pXTaYrb6iTLEwQPkOA2c9J
 
 ## Regular expressions in Python - Supplement for Topic 2
-https://colab.research.google.com/drive/1xe-0jo9v9fhx4qnIAL9HJ7Obz3WzCrY7?usp=sharing
+https://colab.research.google.com/drive/1xe-0jo9v9fhx4qnIAL9HJ7Obz3WzCrY7
 
 ## Assignment 1
 https://colab.research.google.com/drive/1jNKDUUgQC2J4NHsSZxqCTy1xqTJAuI5-
@@ -24,8 +24,11 @@ https://colab.research.google.com/drive/1ckk8fZPfJLOAl0wzEEDymcwsgP7QuIiC
 ## Converting a Plain Text to an Annotated Vertical File
 https://colab.research.google.com/drive/1_wRF9moDAk6eMDkPISi8zd9x5Iylmfow
 
-## Perplexity of N-gram Language Models
+## Perplexity of N-gram Language Models - Supplement for Topic 5
 https://colab.research.google.com/drive/1syYjYvTCMK3tLLM-DnbX5gUAL2OacsvS
 
-# Latent Semantic Analysis
-https://colab.research.google.com/drive/11GRjBbHkMw62v1FsZJCh5pNAf7vIZHg2?usp=sharing
+# Latent Semantic Analysis - Supplement for Topic 6
+https://colab.research.google.com/drive/11GRjBbHkMw62v1FsZJCh5pNAf7vIZHg2
+
+## Masked Token Prediction with BERT - Supplement for Topic 7
+https://colab.research.google.com/drive/1F3QNDHT9LiX8aIkqYdWjQFBZPvpe4Vfc
