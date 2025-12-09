@@ -24,8 +24,6 @@ https://colab.research.google.com/drive/1ckk8fZPfJLOAl0wzEEDymcwsgP7QuIiC
 ## Converting a Plain Text to an Annotated Vertical File
 https://colab.research.google.com/drive/1_wRF9moDAk6eMDkPISi8zd9x5Iylmfow
 
-## Examples of Transformer Pipelines
-https://colab.research.google.com/drive/1qEB7YQUywMzJbPhG5gQG9aZUQO3LuhKG
 ## Perplexity of N-gram Language Models - Supplement for Topic 5
 https://colab.research.google.com/drive/1syYjYvTCMK3tLLM-DnbX5gUAL2OacsvS
 
@@ -37,3 +35,6 @@ https://colab.research.google.com/drive/1F3QNDHT9LiX8aIkqYdWjQFBZPvpe4Vfc
 
 ## Text Classification Using Sentence Transformer Embeddings and a Fine-tuned BERT Model
 https://colab.research.google.com/drive/17cO-Si533uuNOUx7tRoRCxIKWYuR4ku8
+
+## Examples of Transformer Pipelines
+https://colab.research.google.com/drive/1qEB7YQUywMzJbPhG5gQG9aZUQO3LuhKG
