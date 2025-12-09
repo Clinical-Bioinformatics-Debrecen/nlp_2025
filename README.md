@@ -27,8 +27,11 @@ https://colab.research.google.com/drive/1_wRF9moDAk6eMDkPISi8zd9x5Iylmfow
 ## Perplexity of N-gram Language Models - Supplement for Topic 5
 https://colab.research.google.com/drive/1syYjYvTCMK3tLLM-DnbX5gUAL2OacsvS
 
-# Latent Semantic Analysis - Supplement for Topic 6
+## Latent Semantic Analysis - Supplement for Topic 6
 https://colab.research.google.com/drive/11GRjBbHkMw62v1FsZJCh5pNAf7vIZHg2
 
 ## Masked Token Prediction with BERT - Supplement for Topic 7
 https://colab.research.google.com/drive/1F3QNDHT9LiX8aIkqYdWjQFBZPvpe4Vfc
+
+## Text Classification Using Sentence Transformer Embeddings and a Fine-tuned BERT Model
+https://colab.research.google.com/drive/17cO-Si533uuNOUx7tRoRCxIKWYuR4ku8
